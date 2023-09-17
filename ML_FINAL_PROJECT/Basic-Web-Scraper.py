@@ -2,7 +2,7 @@
 """
 Created on Sat Apr  9 14:38:56 2022
 
-@author: mohit & vartika
+@author: Mohit & Vartika
 """
 
 from selenium import webdriver
